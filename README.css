@@ -1,0 +1,30 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cbcbb3;
+}
+.boite {
+    background-color: rgb(221, 212, 212);
+    padding:20px;
+    border-radius: 50px;
+    box-shadow: -3px 10px 15px rgba(255, 28, 28, 0.1);
+    text-align: center;
+    width:700px;
+    border: radius 15px;
+    margin: 0px 500px 50px 360px;
+}
+.emplacement
+{
+    margin: 0px 500px 50px 360px;
+}
+
+.boite2
+{
+    margin: 0 500px 50px 380px;
+    text-align: center;
+}
+.souligne
+{
+    text-decoration: underline;
+    font-weight: 900;
+}
